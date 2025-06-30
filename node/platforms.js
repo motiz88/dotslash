@@ -12,11 +12,11 @@
 module.exports = {
   artifactsByPlatformAndArch: {
     linux: {
-      aarch64: {
+      arm64: {
         slug: 'linux-musl.aarch64',
         binary: 'dotslash',
       },
-      x86_64: {
+      x64: {
         slug: 'linux-musl.x86_64',
         binary: 'dotslash',
       },
