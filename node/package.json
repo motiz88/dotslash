@@ -30,7 +30,7 @@
   },
   "license": "(MIT OR Apache-2.0)",
   "engines": {
-    "node": ">=22.16.0"
+    "node": ">=22.14.0"
   },
   "devDependencies": {
     "prettier": "3.6.2"
